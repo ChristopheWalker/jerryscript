@@ -1,4 +1,4 @@
-# JerryScript Developer's Certificate of Origin
+**JerryScript*Developer's Certificate of Origin
 
 The JerryScript project uses the signed-off-by language and process to give us a clear chain of trust for every patch received.
 
@@ -20,3 +20,4 @@ You should use your real name and email address in the format below:
 > JerryScript-DCO-1.0-Signed-off-by: Random J Developer random@developer.example.org
 
 "JerryScript-DCO-1.0-Signed-off-by:" this is a developer's certification that he or she has the right to submit the patch for inclusion into the project. It is an agreement to the Developer's Certificate of Origin (above). **Code without a proper signoff cannot be merged into the mainline.**
+ 
